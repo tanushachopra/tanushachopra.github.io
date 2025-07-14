@@ -30,4 +30,4 @@ Status:
 Project completed and hosted using GitHub Pages.
 
 Author:
-Your Name (GitHub: @yourusername)
+Tanusha Chopra (GitHub: @tanushachopra)
